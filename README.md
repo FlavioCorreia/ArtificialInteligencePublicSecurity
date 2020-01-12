@@ -6,6 +6,7 @@ Pygame is used to make the GUI
 This work use the centroids methods
 
 Using
+
 0-Initially we have the cities, without allocation, distances are obtained by distanciaCarroCidades and the coordinated by coordenadas
 ![ ](https://github.com/FlavioCorreia/ArtificialInteligencePublicSecurity/blob/master/img1.png)
 
